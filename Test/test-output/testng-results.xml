@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-18T22:06:46 EST" name="Default suite" finished-at="2020-11-18T22:06:47 EST" duration-ms="1230">
+    <groups>
+    </groups>
+    <test started-at="2020-11-18T22:06:46 EST" name="Default test" finished-at="2020-11-18T22:06:47 EST" duration-ms="1230">
+      <class name="sw409.Test.employee1">
+        <test-method signature="addUser()[pri:0, instance:sw409.Test.employee1@6107227e]" started-at="2020-11-18T22:06:46 EST" name="addUser" finished-at="2020-11-18T22:06:47 EST" duration-ms="1115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser -->
+        <test-method signature="deleteUser()[pri:0, instance:sw409.Test.employee1@6107227e]" started-at="2020-11-18T22:06:47 EST" name="deleteUser" finished-at="2020-11-18T22:06:47 EST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method signature="getUser()[pri:0, instance:sw409.Test.employee1@6107227e]" started-at="2020-11-18T22:06:47 EST" name="getUser" finished-at="2020-11-18T22:06:47 EST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method signature="updateUser()[pri:0, instance:sw409.Test.employee1@6107227e]" started-at="2020-11-18T22:06:47 EST" name="updateUser" finished-at="2020-11-18T22:06:47 EST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- sw409.Test.employee1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
